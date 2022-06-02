@@ -1,2 +1,3 @@
-Deletes specified backup policy from your Recovery Services Vault. This is an asynchronous operation. Status of the
-operation can be fetched using GetProtectio...
+ Converts the text of a language in one script into another type of script. Example-
+ Japanese script "こんにちは"
+ Same word in Latin script "konnichiha"
