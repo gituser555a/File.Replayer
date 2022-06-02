@@ -1,1 +1,9 @@
-**Data Delete API**\n\n**Applies to:** S1 pricing tier.\n<br>\n\nThis API allows the caller to delete
+**Data Delete API**
+
+
+**Applies to:** S1 pricing tier.
+<br>
+
+
+This API allows the caller to delete a previously uploaded data content.<br>  
+You can use this API in a scenario like remov...
