@@ -1,3 +1,1 @@
- Converts the text of a language in one script into another type of script. Example-
- Japanese script "こんにちは"
- Same word in Latin script "konnichiha"
+"**Data Delete API**\n\n**Applies to:** S1 pricing tier.\n<br>\n\nThis API allows the caller to delete
